@@ -1,1 +1,2 @@
 Hello in file2
+Hello 3
